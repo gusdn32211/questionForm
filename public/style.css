@@ -1,0 +1,165 @@
+* {
+ font-family: Lato;
+ color: #939393;
+}
+
+.button {
+  background-color: #F6F6F6;
+  border: 1px solid #E3E3E3;
+  border-radius: 4px;
+  color: black;
+  display: inline-block;
+  font-weight: 600;
+  margin-right: 15px;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.blueButton {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+}
+
+.header {
+  font-size: 28px;
+  font-weight: 350;
+  margin: 20px 0px;
+}
+
+.title {
+  margin: 10px 0px;
+  font-family: 'Lucida Sans Unicode';
+  font-size: 12px;
+  font-weight: 550;
+}
+
+.textInputContainer {
+  border: 1px solid #E3E3E3;
+  border-radius: 4px;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px 16px;
+  box-sizing: border-box;
+}
+
+.textAreaContainer {
+  padding-bottom: 50px;
+}
+
+.answerContainer {
+  margin-bottom: : 5px 0px;
+}
+
+.enumerationInput {
+  width: 150px;
+}
+
+.answerInputContainer {
+  width: 80%;
+  margin-right: 20px;
+}
+
+.defaultPointsContainer {
+  width: 50px;
+}
+
+.selectAnswerContainer {
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.circle {
+  border: 1px solid #E3E3E3;
+  border-radius: 50%;
+  background: white;
+  padding: 7px 8px;
+  margin-right: 10px;
+}
+
+.smallCircle {
+  margin-top: 2px;
+  margin-right: 5px;
+}
+
+.square {
+  border: 1px solid #E3E3E3;
+  border-radius: 25%;
+  background: white;
+  float: left;
+  margin: 1px 10px 20px 0px;
+  padding: 7px 8px;
+  width: 10px;
+}
+
+.opacityNone {
+  opacity: 0;
+}
+
+.optionsContainer {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.blueFont{
+  color: #2575C7;
+}
+
+.marginBottom {
+  margin-bottom: 30px;
+}
+
+.optionsText {
+  margin-right: 10px;
+}
+
+.leftContainer {
+  float: left;
+  width: 60%;
+}
+
+.leftContainerSpacing {
+  padding-left: 10%;
+  padding-right: 5%;
+}
+
+.rightContainerSpacing {
+  padding-left: 5%;
+  padding-right: 40%;
+  padding-top: 80px;
+}
+
+.rightContainer {
+  border: 1px solid #E3E3E3;
+  background-color: #F6F6F6;
+  bottom: 0;
+  float: right;
+  left:60%;
+  position: absolute;
+  top: 0;
+  width: 40%;
+}
+
+.floatRight{
+  float: right;
+}
+
+.floatLeft{
+  float: left;
+}
+
+.menuIconContainer {
+  position: relative;
+  top: 7px;
+  left: 6%;
+}
+
+.hintTextContainer {
+  background-color: #d7d7d7;
+  margin-bottom: 20px;
+  width: 100%;
+  display: flex;
+}
